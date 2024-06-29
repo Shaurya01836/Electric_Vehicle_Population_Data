@@ -22,29 +22,6 @@ This project is focused on analyzing electric vehicle population data. The analy
 - **File Link (Google Drive)**: https://drive.google.com/file/d/1FceKnM3aXBJzBB8ylb6vZr23exMcf19z/view?usp=sharing
 - **Description**: This dataset contains information about electric vehicle registrations, including details such as the make, model, model year, electric range, and the state of registration.
 
-## Installation
-
-1. Clone the repository to your local machine:
-
-    bash
-    git clone https://github.com/Shaurya01836/Electric_Vehicle_Population_Data
-    
-
-2. Navigate to the repository directory:
-
-    bash
-    cd Electric_Vehicle_Population_Data
-    
-
-3. Open the Jupyter Notebook:
-
-    bash
-    jupyter notebook Electric_IBM_Project.ipynb
-    
-
-4. Run the cells in the notebook to view the data and analysis.
-
-
 ## Usage
 
 1. **Upload the Notebook**:
