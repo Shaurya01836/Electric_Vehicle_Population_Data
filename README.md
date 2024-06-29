@@ -3,17 +3,13 @@
 
 # Electric Vehicle Population Data Analytics
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Analysis and Visualizations](#analysis-and-visualizations)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -25,25 +21,6 @@ This project is focused on analyzing electric vehicle population data. The analy
 - **File**: `Electric_Vehicle_Population_Data.csv`
 - **Description**: This dataset contains information about electric vehicle registrations, including details such as the make, model, model year, electric range, and the state of registration.
 
-## Installation
-
-1. Clone the repository:
-
-    ```sh
-    git clone https://github.com/your-username/your-repo-name.git
-    ```
-
-2. Change into the project directory:
-
-    ```sh
-    cd your-repo-name
-    ```
-
-3. Install the required dependencies:
-
-    ```sh
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
@@ -66,18 +43,10 @@ The analysis includes:
 - **Distribution of Electric Range**: Histogram to show the distribution of the electric range of vehicles.
 - **Scatter Plot of Electric Range vs. Model Year**: Scatter plot to visualize the relationship between model year and electric range.
 
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 - **Name**: Shaurya Upadhyay
 - **Email**: shaurya69889@gmail.com
-- **GitHub**: 
+- **GitHub**: https://github.com/Shaurya01836
 
 ---
