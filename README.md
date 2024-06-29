@@ -25,7 +25,6 @@ This project is focused on analyzing electric vehicle population data. The analy
 
 1. Clone the repository:
 
-    sh
     git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Shaurya01836/Electric_Vehicle_Population_Data.git)
     
 
