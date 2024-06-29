@@ -24,21 +24,25 @@ This project is focused on analyzing electric vehicle population data. The analy
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository to your local machine:
 
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Shaurya01836/Electric_Vehicle_Population_Data.git)
+    bash
+    git clone https://github.com/Shaurya01836/Electric_Vehicle_Population_Data
     
 
-2. Change into the project directory:
+2. Navigate to the repository directory:
 
-    sh
+    bash
     cd Electric_Vehicle_Population_Data
     
 
-3. Install the required dependencies:
+3. Open the Jupyter Notebook:
 
-    sh
-    pip install -r requirements.txt
+    bash
+    jupyter notebook Electric_IBM_Project.ipynb
+    
+
+4. Run the cells in the notebook to view the data and analysis.
 
 
 ## Usage
