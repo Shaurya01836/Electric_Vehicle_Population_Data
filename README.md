@@ -19,6 +19,7 @@ This project is focused on analyzing electric vehicle population data. The analy
 ## Dataset
 
 - **File**: `Electric_Vehicle_Population_Data.csv`
+- **File Link (Google Drive)**: https://drive.google.com/file/d/1FceKnM3aXBJzBB8ylb6vZr23exMcf19z/view?usp=sharing
 - **Description**: This dataset contains information about electric vehicle registrations, including details such as the make, model, model year, electric range, and the state of registration.
 
 ## Installation
